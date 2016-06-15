@@ -1,0 +1,15 @@
+{
+  "name": "mocha-unit-testing",
+  "version": "1.0.0",
+  "description": "Mocha Tests",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alan Tsai",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "latest",
+    "mocha": "latest"
+  }
+}
